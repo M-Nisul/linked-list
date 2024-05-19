@@ -1,0 +1,20 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "Linked List Project in The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Nisul/linked-list.git"
+  },
+  "author": "Nisul Munidasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Nisul/linked-list/issues"
+  },
+  "homepage": "https://github.com/M-Nisul/linked-list#readme",
+  "type": "module"
+}
